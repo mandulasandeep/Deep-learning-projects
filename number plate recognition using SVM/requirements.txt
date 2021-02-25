@@ -1,0 +1,6 @@
+numpy -- 1.19.0
+imageio -- 2.6.1
+matplotlib -- 3.3.1
+cv2 -- 4.2.0
+imutils -- 0.5.3
+sklearn -- 0.23.2

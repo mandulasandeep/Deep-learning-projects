@@ -1,0 +1,6 @@
+﻿Keras – 2.3.1
+Pickle – 2.0
+NLTK – 3.4.5
+Json file – 2.0.9
+tkinter GUI – 2.7.17
+python version -- 3.6.9

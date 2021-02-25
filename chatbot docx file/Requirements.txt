@@ -1,0 +1,5 @@
+﻿NLTK --  3.4.5
+beautiful Soups4 --  4.8.2
+Regex --  2.2.1
+Sklearn – 0.23.2
+Python version --  3.6.9
